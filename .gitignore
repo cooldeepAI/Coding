@@ -66,4 +66,4 @@ venv.bak/
 
 # C++ project file 
 cmake-build-debug/
-CMakeList.txt
+CMakeLists.txt
