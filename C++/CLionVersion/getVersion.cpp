@@ -6,7 +6,7 @@ int getVersion(){
     return 0;
 }
 
-int main(){
-    getVersion();
-    return 0;
-}
+//int main(){
+//    getVersion();
+//    return 0;
+//}
