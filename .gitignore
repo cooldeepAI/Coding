@@ -67,3 +67,5 @@ venv.bak/
 # C++ project file 
 cmake-build-debug/
 CMakeLists.txt
+
+*.DS_Store
